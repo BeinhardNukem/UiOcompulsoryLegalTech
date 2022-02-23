@@ -1,0 +1,40 @@
+{
+    "individuals": {
+        "1": {
+            "personal": {
+                "ssn": "null",
+                "nationality": "null",
+                "biometric-data": ["..."],
+                "consent": "False"
+            },
+            "test-results": {
+                "pcr-result": "null",
+                "antibody-result": "null"
+            }
+        },
+        "2": {
+            "personal": {
+                "ssn": "null",
+                "nationality": "null",
+                "biometric-data": ["..."],
+                "consent": "False"
+            },
+            "test-results": {
+                "pcr-result": "null",
+                "antibody-result": "null"
+            }
+        },
+        "3": {
+            "personal": {
+                "ssn": "null",
+                "nationality": "null",
+                "biometric-data": ["..."],
+                "consent": "False"
+            },
+            "test-results": {
+                "pcr-result": "null",
+                "antibody-result": "null"
+            }
+        }
+    }
+}
